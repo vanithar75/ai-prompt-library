@@ -1,0 +1,3 @@
+# AI Prompt Library
+
+Initializing repository...
